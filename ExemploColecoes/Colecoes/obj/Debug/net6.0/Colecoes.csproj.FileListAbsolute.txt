@@ -1,0 +1,15 @@
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Dio\LINQ com dotnet\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
