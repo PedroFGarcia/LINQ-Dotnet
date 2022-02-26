@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dio\\LINQ com dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj": {}
+    "C:\\Users\\pedro\\Dio\\LINQ-Dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj": {}
   },
   "projects": {
-    "D:\\Dio\\LINQ com dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj": {
+    "C:\\Users\\pedro\\Dio\\LINQ-Dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dio\\LINQ com dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Dio\\LINQ-Dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj",
         "projectName": "Colecoes",
-        "projectPath": "D:\\Dio\\LINQ com dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj",
+        "projectPath": "C:\\Users\\pedro\\Dio\\LINQ-Dotnet\\ExemploColecoes\\Colecoes\\Colecoes.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "D:\\Dio\\LINQ com dotnet\\ExemploColecoes\\Colecoes\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Dio\\LINQ-Dotnet\\ExemploColecoes\\Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
